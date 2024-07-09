@@ -1,0 +1,3 @@
+HTML = tudo que tem sentido (semântica)
+CSS = Trabalha com a forma (cores, espaçamentos)
+Algumas tags estão obsoletas 
